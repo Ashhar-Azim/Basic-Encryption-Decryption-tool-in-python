@@ -45,7 +45,7 @@ This Python application provides a simple GUI for message encryption and decrypt
 
 To toggle dark mode, click the "Toggle Dark Mode" button at the top.
 
-##Acknowledgments
+## Acknowledgments
 
 -Tkinter - Python's standard GUI library.
 -Vigenère Cipher - Information on the Vigenère cipher.
