@@ -47,8 +47,10 @@ To toggle dark mode, click the "Toggle Dark Mode" button at the top.
 
 ## Acknowledgments
 
--Tkinter - Python's standard GUI library.
--Vigenère Cipher - Information on the Vigenère cipher.
+- Tkinter
+- Python's standard GUI library.
+- Vigenère Cipher
+- Information on the Vigenère cipher.
 
 ## Contributing
 
