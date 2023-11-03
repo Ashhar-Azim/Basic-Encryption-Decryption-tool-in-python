@@ -58,5 +58,5 @@ Contributions are welcome!
 
 ### Project Status
 
-This project is currently in development and open for contributions.
+This project is currently in development and open for contributions. 
  
